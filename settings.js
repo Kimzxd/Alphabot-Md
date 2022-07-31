@@ -36,11 +36,11 @@ global.premium = ['6285806583988'] //premium user
 global.owner = ["6285811395565","6285806583988] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285806583988" // nomor wa kalian
 global.ownernomerr = "+6285806583988" //nmr wa kalian
-global.thumbnail = "./image/IMG-20220731-WA0000.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/IMG-20220724-WA0197.jpg" // foto donasi di folder image
+global.thumbnail = "./image/IMG-20220731-WA0015.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/IMG-20220731-WA0014.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = 'bot coba' //sticker wm ubah
-global.author = 'Di Buat Oleh tomz' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh kimzxdbot' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
