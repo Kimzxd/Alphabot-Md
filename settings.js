@@ -25,7 +25,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "KIMZXD-BOTZ" //namabot kalian
-global.ownername= "TOMZ《KIMZXD》" //nama kalian
+global.ownername= "TOMZAHLIBOTZ" //nama kalian
 global.myweb ="https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.github = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas
