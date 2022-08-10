@@ -26,13 +26,13 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "KIMZXD-BOTZ" //namabot kalian
 global.ownername= "TOMZAHLIBOTZ" //nama kalian
-global.myweb ="https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
+global.myweb = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas asal jan hapus
 global.github = "https://chat.whatsapp.com/J4LIfG5WjzqARFVniPUWu9" //bebas
 global.email = "tomzkimzxd86@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285806583988'] //ganti agar fitur owner bisa di gunakan
+global.premium = ["6285806583988"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285806583988" // nomor wa kalian
 global.ownernomerr = "+6285806583988" //nmr wa kalian
 global.thumbnail = "./image/IMG-20220805-WA0000.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
