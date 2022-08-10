@@ -39,7 +39,7 @@ global.thumbnail = "./image/IMG-20220805-WA0000.jpg" // ini lol.jpg adalah nama 
 global.donasi = "./image/IMG-20220724-WA0197.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = 'Botz KIMZXD-BOTZ' //sticker wm ubah
-global.author = 'Di Buat Oleh TOMZ[KIMZXD]' //sticker wm ganti nama kalian
+global.author = 'Di Buat Oleh TOMZKIMZXD' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
